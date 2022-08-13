@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="cadastre_se">Cadastre-se</string>
+    <string name="description">Description</string>
+    <string name="background">ImageView Description</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="email_do_user">Email do Usuário</string>
+</resources>
